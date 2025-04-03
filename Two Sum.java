@@ -1,3 +1,5 @@
+//***************** Two Sum leetcode problem solution without using built-in functions or intermedicate java concepts like hashing *********************
+
 import java.util.*;
 import java.io.*;
 public class Solution{
@@ -7,7 +9,7 @@ public class Solution{
       //int[] arr=new int[len];
       //int t=sc.nextInt();
       int[] result_arr=new int[2];
-      //for(int i=0;i<arr.length-1;i++){
+      //for(int i=0;i<arr.length-1;i++){                // *****************commented lines are tried new logic lines***************
        // arr[i]=sc.nextInt();
       //}
       //boolean n=true;
@@ -28,6 +30,8 @@ public class Solution{
       return result_arr;
     }
 }
+
+//****************************************************Reference code from stackover flow************************************************************
 
 /*public class Solution {
     public int[] twoSum(int[] numbers, int target) {
