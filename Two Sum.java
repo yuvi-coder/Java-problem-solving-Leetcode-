@@ -1,9 +1,9 @@
   // ****************NOTES***************** \\
 
 /*  1. looping logic improved - increment in second loop variable
-                                                          2. test case inputs are given through the class name as parameter no need to write code to get the inputs.
-                                                          3. printing the complete array - array size logic clear <[10000]>.
-                                                          4. return statement explored. */
+    2. test case inputs are given through the class name as parameter no need to write code to get the inputs.
+    3. printing the complete array - array size logic clear <[10000]>.
+    4. return statement explored. */
 
 
 
