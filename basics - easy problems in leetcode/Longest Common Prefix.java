@@ -1,3 +1,10 @@
+/* Deep explaination below about the solution - is not think the lines of code was small so it is not neccessary to 
+learn the code deeply - *learn every single code deeply* */
+
+// first two lines explaination : 
+//1.class (java takes everything as object) 
+//2.java main file (my everything as string array static keyword) --- *to know these deeply.*
+
 class Solution {
     public String longestCommonPrefix(String[] strs) {
         Arrays.sort(strs);    // The sort() method sorts an array in ascending order.   ******** below have deep notes about this sort function **********
