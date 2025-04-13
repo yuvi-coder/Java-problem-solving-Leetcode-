@@ -103,3 +103,21 @@ when you need to control the flow of execution beyond the loop.
 
 
 */
+
+//valid paranthesis leetcode
+
+class Main {
+    public static void main(String[] args) {
+        String s="aa";
+        for(int i=0,j=1;i<s.length()-1;i++,j++){
+            char c1=s.charAt(i);
+            char c2=s.charAt(j);
+            if(c1==c2){
+                System.out.println("We found a method to solve valid parenthesis problem in leetcode.");
+            }
+            else{
+                System.out.println("logic Fails");
+            }
+        }
+    }
+}
