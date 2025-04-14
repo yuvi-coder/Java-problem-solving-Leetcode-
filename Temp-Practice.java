@@ -121,3 +121,22 @@ class Main {
         }
     }
 }
+
+
+class Main {
+    public static void main(String[] args) {
+        //System.out.println("Try programiz.pro");
+         static int ReplaceSpace(String s){
+             for(int i=0;i<s.length();i++){
+                 char c=s.charAt(i);
+                 if(c==' '){
+                     s=s.replace(' ',"-");
+                 }
+                 return s;
+             }
+         }
+         String s1="string one";
+         String s2="one string ";
+         for(int i=0;i<)
+    }
+}
